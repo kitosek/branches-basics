@@ -1,2 +1,2 @@
-all:doska.c
-	gcc -Wall doska.c -o all
+all:Prog.c
+	gcc -Wall Prog.c -o all
